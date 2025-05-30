@@ -1,1 +1,6 @@
-body{background-color: blue;}
+body {
+    background-image: url('asset/img/Untitled.jpg'); /* Update the filename if needed */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
